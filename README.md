@@ -39,7 +39,7 @@ This project uses HTML and CSS only. No JavaScript is included.
 ![AgriLink Home Page](AgriLink screenshot/Home.png)
 
 ### 2. About Page
-![AgriLink About Page](AgriLink screenshot/About.png)
+![AgriLink About Page](https://github.com/zainezilla-cmd/AgriLink/blob/main/AgriLink%20screenshot/About.pnghttps://github.com/zainezilla-cmd/AgriLink/blob/main/AgriLink%20screenshot/About.png)
 
 ### 3. Contact Page
 ![AgriLink Contact Page](AgriLink screenshot/Contact.png)
