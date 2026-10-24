@@ -33,9 +33,33 @@ This project uses HTML and CSS only. No JavaScript is included.
 6. **Contact Page:** Displays contact information, a contact form, and a map showing Freetown, Sierra Leone.
 7. **Farmer Profile Page:** Presents the profile and information of farmer Aruna Kargbo.
 8. **Farmer Products Page:** Displays agricultural products associated with Aruna Kargbo.
+## AgriLink Website Screenshots
 
-## 5. Key Features
+### 1. Home Page
+![AgriLink Home Page](AgriLink screenshot/Home.png)
 
+### 2. About Page
+![AgriLink About Page](AgriLink screenshot/About.png)
+
+### 3. Contact Page
+![AgriLink Contact Page](AgriLink screenshot/Contact.png)
+
+### 4. Service Page
+![AgriLink Services Page](AgriLink screenshot/services.png)
+
+### 5. Farmer-Profile Page
+![AgriLink Farmer-Profile Page](AgriLink screenshot/Farmer-Profile.png)
+
+### 6. Farmer Product Page
+![AgriLink Farmer-Product Page](AgriLink screenshot/Farmer-Product.png)
+
+### 7. Marketplace Page
+![AgriLink Marketplace Page](AgriLink screenshot/Marketplace.png)
+
+### 8. Product Page
+![AgriLink Product Page](AgriLink screenshot/Product.png)
+
+###Key Features
 - Eight separate HTML pages connected through a navigation menu.
 - A **Sell Your Produce** button in the website header.
 - Individual images for different agricultural products.
