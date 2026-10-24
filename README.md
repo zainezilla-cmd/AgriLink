@@ -47,7 +47,7 @@ This project uses HTML and CSS only. No JavaScript is included.
 ![AgriLink Services Page](screenshot/Services.png)
 
 ### 5. Farmer-Profile Page
-![AgriLink Farmer-Profile Page](screenshot/Farmer Profile.png)
+![AgriLink FarmerProfile Page](screenshot/Farmer Profile.png)
 
 ### 6. Farmer Product Page
 ![AgriLink Farmer-Product Page](screenshot/Farmer Product.png)
